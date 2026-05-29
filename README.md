@@ -96,8 +96,7 @@ flowchart TD
   - Analyze From, To, Subject, Date, Message-ID, and relay servers used in sending the email.
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33493c33-7c18-4f75-9384-78f7b1decae3" />
-
+<img width="1302" height="693" alt="image" src="https://github.com/user-attachments/assets/8c3b76aa-db93-4139-92a3-dc9f78d13304" />
 
 
 ## OUTPUT:
@@ -105,9 +104,7 @@ Captured Web Activity and Email Header Information
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c10cd71c-9bd7-4433-b89e-23eadf74f27e" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33493c33-7c18-4f75-9384-78f7b1decae3" />
-
-
+<img width="1302" height="693" alt="image" src="https://github.com/user-attachments/assets/e1f9c80d-2484-41f3-ba10-56c364a8dc8b" />
 
 ## RESULT:
 Web browser artifacts and email headers were successfully analyzed using Wireshark.
